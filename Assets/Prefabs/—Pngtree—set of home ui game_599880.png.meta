@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 523c845e48d5d214a84820523a0eb0da
+guid: 3500c78d623d489469de23c3880cdaa3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8797959842123074883
-    second: 1679448202_zefirka-club-p-multyashnie-teksturi-47_0
+      213: -8555844039945342869
+    second: "\u2014Pngtree\u2014set of home ui game_599880_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,7 +126,7 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 10
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -165,13 +165,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 1679448202_zefirka-club-p-multyashnie-teksturi-47_0
+      name: "\u2014Pngtree\u2014set of home ui game_599880_0"
       rect:
         serializedVersion: 2
-        x: 0
+        x: 314
         y: 0
-        width: 1000
-        height: 1000
+        width: 572
+        height: 154
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,8 +180,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db23a1e132e57e580800000000000000
-      internalID: -8797959842123074883
+      spriteID: b603a6d2d29834980800000000000000
+      internalID: -8555844039945342869
       vertices: []
       indices: 
       edges: []
@@ -199,8 +199,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      1679448202_zefirka-club-p-multyashnie-teksturi-47_0: -8797959842123074883
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

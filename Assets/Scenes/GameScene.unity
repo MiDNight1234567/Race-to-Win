@@ -2317,7 +2317,7 @@ RectTransform:
   m_GameObject: {fileID: 1632958424}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.01, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 149514522}
@@ -2374,14 +2374,14 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 25
+  m_fontSizeBase: 25
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 33
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -2391,7 +2391,7 @@ MonoBehaviour:
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
   m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
+  m_wordWrappingRatios: 0.5
   m_overflowMode: 0
   m_linkedTextComponent: {fileID: 0}
   parentLinkedComponent: {fileID: 0}
@@ -2914,10 +2914,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1188158161}
     m_Modifications:
-    - target: {fileID: 4186715835259100768, guid: d06854bb206e26f4e82573913ebb6062, type: 3}
-      propertyPath: road
-      value: 
-      objectReference: {fileID: 4221570046531224872, guid: d06854bb206e26f4e82573913ebb6062, type: 3}
     - target: {fileID: 4221570046531224872, guid: d06854bb206e26f4e82573913ebb6062, type: 3}
       propertyPath: m_Name
       value: road
@@ -3176,10 +3172,6 @@ PrefabInstance:
     - target: {fileID: 1661680868371883894, guid: cab565417f084fd44932f32a7a14a9ed, type: 3}
       propertyPath: m_Name
       value: Grees
-      objectReference: {fileID: 0}
-    - target: {fileID: 6678842243606723398, guid: cab565417f084fd44932f32a7a14a9ed, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6678842243606723398, guid: cab565417f084fd44932f32a7a14a9ed, type: 3}
       propertyPath: m_LocalPosition.x
