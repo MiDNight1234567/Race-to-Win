@@ -12,7 +12,7 @@ public class MoveAndSpawnBuildings : MonoBehaviour
 
         if (transform.position.y < -10.8f)
         {
-            Instantiate(building, new Vector3(0f, 10.8f, 0), Quaternion.identity);
+            Instantiate(building, new Vector3(0f, 10.58f, 0), Quaternion.identity);
             Destroy(gameObject);
         }
     }

@@ -5,14 +5,14 @@
   ],
   "cleanCommandsComponents": [
     [
-      "E:\\Program Files\\6000.0.20f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+      "E:\\Program Files\\6000.0.21f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
       "-C",
       "E:\\Unity Hub\\Race to Win\\.utmp\\RelWithDebInfo\\u3627625\\armeabi-v7a",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
-    "E:\\Program Files\\6000.0.20f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+    "E:\\Program Files\\6000.0.21f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
     "-C",
     "E:\\Unity Hub\\Race to Win\\.utmp\\RelWithDebInfo\\u3627625\\armeabi-v7a",
     "{LIST_OF_TARGETS_TO_BUILD}"

@@ -88,7 +88,7 @@
 			],
 			"sysroot" : 
 			{
-				"path" : "E:/Program Files/6000.0.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
+				"path" : "E:/Program Files/6000.0.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
 			}
 		}
 	],
@@ -124,7 +124,7 @@
 		"language" : "CXX",
 		"sysroot" : 
 		{
-			"path" : "E:/Program Files/6000.0.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
+			"path" : "E:/Program Files/6000.0.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
 		}
 	},
 	"name" : "swappywrapper",

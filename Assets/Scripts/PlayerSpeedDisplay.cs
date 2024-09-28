@@ -14,4 +14,3 @@ public class PlayerSpeedDisplay : MonoBehaviour
         distanceText.text = "Distance:" + Mathf.Round(distanceTravelled) + "m";
     }
 }
-

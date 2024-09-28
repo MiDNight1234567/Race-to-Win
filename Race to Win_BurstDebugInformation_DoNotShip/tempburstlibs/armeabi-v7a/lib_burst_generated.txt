@@ -9,7 +9,7 @@ Library: E:\Unity Hub\Race to Win\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=E:\Unity Hub\Race to Win\Temp\Burst
---key-folder=E:/Program Files/6000.0.20f1/Editor/Data/PlaybackEngines/AndroidPlayer
+--key-folder=E:/Program Files/6000.0.21f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=E:\Unity Hub\Race to Win\Library\Burst
 --output=E:\Unity Hub\Race to Win\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/

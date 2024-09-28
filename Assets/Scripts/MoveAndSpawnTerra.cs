@@ -9,7 +9,7 @@ public class MoveAndSpawnTerra : MonoBehaviour
     {
         transform.Translate(Vector3.down * speed * Time.deltaTime);
 
-        if (transform.position.y < -10f)
+        if (transform.position.y < -20f)
         {
             Instantiate(grees, new Vector3(0f, 20f, 0), Quaternion.identity);
             Destroy(gameObject);

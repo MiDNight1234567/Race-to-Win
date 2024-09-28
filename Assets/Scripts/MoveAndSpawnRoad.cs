@@ -12,7 +12,7 @@ public class MoveAndSpawnRoad : MonoBehaviour
 
         if (transform.position.y < -8f)
         {
-            Instantiate(road, new Vector3(0.0116f, 8.88f, 0), Quaternion.identity);
+            Instantiate(road, new Vector3(0.0099f, 8.88f, 0), Quaternion.identity);
             Destroy(gameObject);
         }
     }
